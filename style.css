@@ -1,0 +1,21 @@
+.container-1 {
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  background-image: url(https://i.pinimg.com/564x/15/70/e6/1570e68451cc664b7a54cfe0613caa7f.jpg);
+}
+
+.navigation {
+  height: 10%;
+  width: 100%;
+  background-color: white;
+}
+
+.symbol {
+  margin-left: 2%;
+  height: 100%;
+  width: 5%;
+  background-image: url(https://i.pinimg.com/564x/14/55/09/145509e2e7c55b7ab8830545895b70c9.jpg);
+  background-size: cover;
+  display: flex;
+}
